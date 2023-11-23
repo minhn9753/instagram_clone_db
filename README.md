@@ -27,7 +27,7 @@ Welcome to the Instagram Clone Database, a project aimed at simulating the datab
 ### Project Structure
 
 - **`Tables`**: SQL script for creating the database tables.
-- **`Solutions`**: Sample SQL queries demonstrating key findings and insights in the database.
+- **`Solutions`**: SQL queries demonstrating key findings and insights in the database.
 - **`ig_clone diagram.png`**: Entity Relationship Diagram (ERD) to have a better understanding of the overall schema.
 - **`ig_clone_db_relationship.txt`**: Brief explanation of relationships between entities in the schema.
 - **`ig_clone_queries.txt`**: Detailed explanation of each query that produces different key findings.
