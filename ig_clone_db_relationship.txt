@@ -1,0 +1,26 @@
+Relationships:
+
+
+1. users vs photos: One-to-Many
+Users can upload multiple photos, and each photo is linked to the user who uploaded it.
+
+2. users vs comments: One-to-Many
+Each comment is made by a single user, but a user can have multiple comments. 
+
+3. photos vs comments: One-to-Many
+Each comment is associated with a single photo, but a photo can have multiple comments.
+
+4. users vs likes: One-to-Many
+Each like is associated with a single user, but a user can have multiple likes.
+
+5. photos vs likes: One-to-Many
+Each like is associated with a single photo, but a photo can have multiple likes.
+
+6. users vs follows: One-to-Many
+The follows table allows for multiple rows to link to a single user in the users table, indicating the many-to-one nature of these relationships.
+
+7. photos vs photo_tags: One-to-Many 
+This relationship allows the photo_tags table to link to specific photos in the photos table, enabling the association of multiple tags with each photo.
+
+8. tags vs photo_tags: One-to-Many
+This relationship allows the photo_tags table to link to specific tags in the tags table, enabling the association of multiple photos with each tag.
