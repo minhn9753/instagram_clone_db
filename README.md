@@ -2,7 +2,7 @@
 
 ### Overview
 
-Welcome to the Instagram Clone Database, a project aimed at simulating the database structure of a social media platform. This project mimics the core functionalities of Instagram, including user registration, photo uploads, comments, likes, follows and hashtags.
+Welcome to the Instagram Database Clone, a project aimed at simulating the database structure of a social media platform. This project mimics the core functionalities of Instagram, including user registration, photo uploads, comments, likes, follows and hashtags.
 
 ### Features
 
