@@ -7,3 +7,4 @@ CREATE TABLE comments (
     FOREIGN KEY(photo_id) REFERENCES photos(id),
     FOREIGN KEY(user_id) REFERENCES users(id)
 );
+
